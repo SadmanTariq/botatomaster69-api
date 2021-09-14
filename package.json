@@ -1,0 +1,26 @@
+{
+  "name": "botatomaster69-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadmantariq/botatomaster69-api.git"
+  },
+  "author": "Sadman Tariq",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sadmantariq/botatomaster69-api/issues"
+  },
+  "homepage": "https://github.com/sadmantariq/botatomaster69-api#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
